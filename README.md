@@ -1,2 +1,2 @@
-# Battle-king
+https://github.com/bsabsp2192-lgtm/Battle-king.git# Battle-king
 Yah ek battle king game hai jismein bahut Khiladi bhag lekar game khel sakte hain aur ismein kafi dar mujhe Ja Rahe game
